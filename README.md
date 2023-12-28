@@ -30,7 +30,7 @@ Stay tuned for the app's video preview, coming soon!
 ## 📥 Download and install NewsPulse Flutter app:
 
 Google Drive Link (Size: 20 MB): 
-[https://your-google-drive-link](https://drive.google.com/file/d/1T92vamMoq-nzxH_g4uCjvGEYrUjnwhk8/view?usp=sharing)
+[https://your-google-drive-link](https://drive.google.com/file/d/1SsxRp_oENtIY38-YzbEr4_p89IHQRXZ5/view?usp=sharing)
 
 ## Installation
 
@@ -50,5 +50,5 @@ Connect a device or use an emulator.\
 Click on the Run button in Android Studio.
 
 ## Feedback
-If you have any feedback, please reach out to me at waonicegood@gmail.com
+If you have any feedback, please reach out to me at tanujyadav430@gmail.com
 Join the NewsPulse Flutter community and stay updated with the latest news effortlessly using this intuitive Flutter app! 📰📱
