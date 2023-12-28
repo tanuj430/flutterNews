@@ -27,7 +27,7 @@ FlutterNews is a Flutter application developed using the NewsApi.org API. It del
 ## 📥 Apps's video preview:
 Stay tuned for the app's video preview, coming soon!
 
-## 📥 Download and install NewsPulse Flutter app:
+## 📥 Download and install FlutterNews app:
 
 Google Drive Link (Size: 20 MB): 
 [https://your-google-drive-link](https://drive.google.com/file/d/1SsxRp_oENtIY38-YzbEr4_p89IHQRXZ5/view?usp=sharing)
