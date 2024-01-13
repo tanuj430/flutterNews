@@ -1,7 +1,7 @@
 📰📱 Introducing FlutterNews
 
 ##  What's FlutterNews?
-FlutterNews is a Flutter application developed using the NewsApi.org API. It delivers the latest news updates, offering a personalized and intuitive news browsing experience to users. Powered by Flutter, it ensures a seamless multi-platform experience for accessing news on both iOS and Android devices.
+FlutterNews is a Flutter application developed using the NewsApi.org API. It delivers the latest news updates, offering a personalized and intuitive news browsing experience to users. Powered by Flutter, it ensures a seamless multi-platform experience for accessing news on Android devices.
 
 ## Tech Stack
 
